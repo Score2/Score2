@@ -1,7 +1,7 @@
-### Hi there. ❤
+### Hi there 👋
+I am a student😀, and a lot of my work is in Minecraft, but I don’t have enough time😢, maybe I may miss a lot. Sometimes I'm lazy and even disappear for a day.
 
-##### 联系方式 | Contact information
-* 🎁[MCBBS](https://www.mcbbs.net/home.php?mod=space&uid=2412402)
-* 🚀[GitLab](https://gitlab.com/Score2)
-* ⚡[爱发电](https://afdian.net/@Score2)
-* 🌈[Bilibili](https://space.bilibili.com/13611068)
+##### 🌟 如何找到我? | How to find me?
+[【MCBBS】](https://www.mcbbs.net/home.php?mod=space&uid=2412402)
+[【GitLab】](https://gitlab.com/Score2)
+[【爱发电】](https://afdian.net/@Score2)
