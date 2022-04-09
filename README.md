@@ -13,7 +13,9 @@ It stopped me from worrying about the stuttering of cellular data on campus, and
 * Gitlab: [Score2](https://gitlab.com/Score2)
 * 爱发电: [@Score2](https://afdian.net/@Score2)
 * Discord: [insinuate.io](https://discord.gg/Fs6fJN3jXj)
-* Tencent QQ: 836696023
+
+
+> 🙂 If you have any questions, you can PM my email: 836696023@qq.com
 
 
 ![info](https://github-readme-stats.vercel.app/api?username=Score2&count_private=true&show_icons=true&theme=midnight-purple)
