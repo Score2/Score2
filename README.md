@@ -1,5 +1,9 @@
 ### Hi there! 👋
-I am a student, and a lot of my work is in Minecraft, but I don’t have enough time, maybe I may miss a lot. Sometimes I'm lazy and even disappear for a day.
+This is Score2.  I am passionate about Minecraft plugin development, as well as networking facilities and smart homes.
+
+Since I'm in school most of the time, maybe I might disappear all day.
+
+Every day in the past, I thought they were both supernatural, because the `1+1 != 2` situation is a regular occurrence.:(
 
 ##### 🌟 Contact details
 * Mcbbs(China): [2412402](https://www.mcbbs.net/home.php?mod=space&uid=2412402)
