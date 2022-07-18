@@ -4,7 +4,7 @@
 
 - 🔍 I often pursue the extreme in some details.
 
-- 🏠 Since I'm in school most of the time, maybe I might disappear all day.
+- 🏠 Sometimes, I disappear for a while because of school.
 
 - 🛸 Every day in the past, I thought they were both supernatural, because the `1+1 != 2` situation is a regular occurrence.:(
 
