@@ -25,8 +25,8 @@
 </div>
 
 <div align="center">
-<a href="836696023@qq.com" target="_blank">
-<img src=https://img.shields.io/badge/EMail-836696023@qq.com-%23555555.svg?labelColor=00acee&style=for-the-badge&logo=minutemailer&logoColor=white alt=E-Mail style="margin-bottom: 5px;" />
+<a href="score2.dev@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/EMail-score2.dev@gmail.com-%23555555.svg?labelColor=00acee&style=for-the-badge&logo=minutemailer&logoColor=white alt=E-Mail style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Score2" target="_blank">
 <img src=https://komarev.com/ghpvc/?username=Score2&style=for-the-badge alt=E-Mail style="margin-bottom: 5px;" />
