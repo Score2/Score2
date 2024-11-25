@@ -1,6 +1,6 @@
 # <div align="center">Hi there!👋</div>
 
-## <div align="center">I am Score2, a Minecraft plugin development.✍️</div>
+## <div align="center">I am Score2, a Minecraft plugin developer.✍️</div>
 
 - 🔍 I often pursue the extreme in some details.
 
